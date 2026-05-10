@@ -44,7 +44,6 @@ Detailed notes covering every component of the architecture are in
 `LLM_notes.md` — written from scratch for understanding, not copied.
 
 ## Known Issues
-1. Embedding scaling may be unnecessary with RoPE (no additive positional 
-   encoding to match scale with)
-2. RoPE interleaving layout may be inconsistent with rotate_half indexing
-3. Shift-by-one originally appeared in both dataset and forward pass
+1. Not saving best model
+2. Not using training/val data
+3. GPU use inefficient

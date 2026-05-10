@@ -8,7 +8,7 @@ training loop, and inference.
 ## Credits
 Architecture and structure inspired by 
 [how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt) 
-by Raiyan Yahya (MIT License) and Andrej Karpathy's nanoGPT.
+by Raiyan Yahya (MIT License) (credit for much of code, explanations, and examples) and Andrej Karpathy's nanoGPT.
 
 ## Architecture
 - **95M parameters**

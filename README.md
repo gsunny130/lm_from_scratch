@@ -20,7 +20,7 @@ by Raiyan Yahya (MIT License) (credit for much of code, explanations, and exampl
 ## Training
 - Dataset: FineWeb-Edu (10k samples)
 - 20,000 steps, AdamW optimizer, cosine LR schedule with warmup
-- Final loss: ~3.6
+- Final loss: ~3.2
 - Hardware: 2x T4 GPUs with mixed precision (bfloat16)
 
 ## Sample Output

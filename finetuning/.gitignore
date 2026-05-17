@@ -1,0 +1,6 @@
+.env
+mistral-essays-finetuned
+essays_formatted.jsonl
+essays_cache.json
+essays_old.csv
+essays.csv
